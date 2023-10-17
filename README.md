@@ -23,6 +23,9 @@ Created a simple application - quiz.
 - Yi Jin
 - Mila Hose
 
+as well as my tutor Doug:
+ugalcedo@users.noreply.github.com
+
 # As well as ffound some answers while doing codecadamy Javascript full course.
 
 It is getting more challenging for me ... but I wont give up !
